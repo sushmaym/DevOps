@@ -1,7 +1,11 @@
-public class DEMO {
-    public static void main(String[] args) {
-        System.out.println("Welcome to Git");
-        System.out.println("This is my first Git program");
-        System.out.println("Git local repository practical");
+
+public class DEMO
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Welcome to Java");
+        System.out.println("Welcome to DevOps");
+        System.out.println("Git is Fun");
+        System.out.println("Git version control is easy");
     }
 }
