@@ -5,7 +5,6 @@ public class DEMO
     {
         System.out.println("Welcome to Java");
       
-        System.out.println("Git is Fun");
-        System.out.println("Git version control is easy");
+       
     }
 }
